@@ -8,10 +8,13 @@ In the end the dog will be saved as a file to a provided directory
 (if not provided, it will be saved in the current directory) in the following format:
 
 ## installation
-poetry install
+```poetry install```
 
 ## usage
-potry run wuff-wau
+
+```potry run wuff-wau```
+
+```console
 usage: WUFF-WAU [-h] [-y YEAR] [-d] {stats,find,create} ...
 
 Various operations based on theregistered dogs in the city of Zurich
@@ -29,6 +32,7 @@ actions:
     find                find dogs with name
     create              gets a random dog image and assembles the file name randomlyfrom a name and birthdate  
                         from sample data
+```
 
 ### Additional information
 
