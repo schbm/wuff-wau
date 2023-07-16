@@ -1,5 +1,7 @@
 # wuff-wau CLI 
 
+### This was a learning project
+
 This command-line tool offers lookup operations on the open data of the registered dogs in the city of Zurich,
 which can be found here: https://data.stadt-zuerich.ch/dataset/sid_stapo_hundenamen_od1002
 
